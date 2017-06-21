@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1497928468 source:c:\users\mariojose123\documents\trabalhoead\trabalho.c
+	"TernaryTree.h"
+	<stdio.h>
+	<stdlib.h>
+
+1497920107 c:\users\mariojose123\documents\trabalhoead\ternarytree.h
+
+1497999406 source:c:\users\mariojose123\documents\trabalhoead\stack.c
+
