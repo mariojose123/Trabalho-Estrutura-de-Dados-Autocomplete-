@@ -3,6 +3,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
+<<<<<<< HEAD
 
 
 //TAREFA FELIPE:PEGAR AS INFORMAÇÕES DO ARQUIVO E INSERIR A PONTUAÇÃO JUNTO COM A STRING COMO UM NODO EM UMA PILHA ,USANDO A ESTRUTURA DO stack.h//
@@ -13,6 +14,10 @@
 
 // newNode:char->pNodo
 //Recebe um char word e devolve um Nodo com wordEnd false representado que não é o final da palavra//
+=======
+// newNode:char->pNodo
+//Recebe um char word e devolve um Nodo com wordEnd false representado que não é o final da palavra
+>>>>>>> e62668d5187b6c096f61a1343abb6b77d1d80ddd
 pNodo* newNode(char word)
 {
     pNodo *Node=(pNodo*)malloc(sizeof(pNodo));
@@ -21,7 +26,11 @@ pNodo* newNode(char word)
     Node->left=Node->center=Node->right=NULL;
     return Node;
 }
+<<<<<<< HEAD
 //Insert: Insere uma string na arvore ternaria,usa recursão//
+=======
+//Insert: Insere uma string na arvore ternaria,usa recursão
+>>>>>>> e62668d5187b6c096f61a1343abb6b77d1d80ddd
 void Insert(char *word,pNodo **node,int points){
     if((*node)==NULL){  //caso nodo seja nulo
      *node=newNode(*word);
@@ -43,6 +52,7 @@ void Insert(char *word,pNodo **node,int points){
       }
     }
 }
+<<<<<<< HEAD
 void print(char *t) {
    if (*t == '\0')
       return;
@@ -66,6 +76,15 @@ void test(){
 int main(){
     test();
     return 0;
+=======
+void test(){
+
+
+}
+
+int main(){
+
+>>>>>>> e62668d5187b6c096f61a1343abb6b77d1d80ddd
 }
 /*DADO UM NODO COLOCA NA PILHA sugestions as palavras filhas
 do nodo final da string (char*) str  da arvore terciaria*/
@@ -74,7 +93,11 @@ void NodeWords(TipoPilha **sugestions,pNodo *node,char *str){
         return;
     }
     if(node->wordEnd==1){
+<<<<<<< HEAD
         *sugestions=PushPilha(*sugestions,node->points,str);
+=======
+        sugestions=PushPilha(&(*sugestions),node->points,str);
+>>>>>>> e62668d5187b6c096f61a1343abb6b77d1d80ddd
     }
     if(node->left!=NULL){
         NodeWords(&(*sugestions),node->left,str);

@@ -8,6 +8,7 @@
 
 1497999406 source:c:\users\mariojose123\documents\trabalhoead\stack.c
 
+<<<<<<< HEAD
 1498014743 source:/home/mjkfilho/Desktop/Trabalho-Estrutura-de-Dados-Autocomplete--master/Trabalho-Estrutura-de-Dados-Autocomplete-/stack.c
 
 1498084770 source:/home/mjkfilho/Desktop/Trabalho-Estrutura-de-Dados-Autocomplete--master/Trabalho-Estrutura-de-Dados-Autocomplete-/trabalho.c
@@ -23,3 +24,5 @@
 	<stddef.h>
 	<stdlib.h>
 
+=======
+>>>>>>> e62668d5187b6c096f61a1343abb6b77d1d80ddd
