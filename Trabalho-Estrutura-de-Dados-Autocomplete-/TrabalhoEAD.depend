@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1497928468 source:c:\users\mariojose123\documents\trabalhoead\trabalho.c
+	"TernaryTree.h"
+	<stdio.h>
+	<stdlib.h>
+
+1497920107 c:\users\mariojose123\documents\trabalhoead\ternarytree.h
+
+1497999406 source:c:\users\mariojose123\documents\trabalhoead\stack.c
+
+1498014743 source:/home/mjkfilho/Desktop/Trabalho-Estrutura-de-Dados-Autocomplete--master/Trabalho-Estrutura-de-Dados-Autocomplete-/stack.c
+
+1498084770 source:/home/mjkfilho/Desktop/Trabalho-Estrutura-de-Dados-Autocomplete--master/Trabalho-Estrutura-de-Dados-Autocomplete-/trabalho.c
+	"TernaryTree.h"
+	"stack.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1498080861 /home/mjkfilho/Desktop/Trabalho-Estrutura-de-Dados-Autocomplete--master/Trabalho-Estrutura-de-Dados-Autocomplete-/TernaryTree.h
+
+1498014743 /home/mjkfilho/Desktop/Trabalho-Estrutura-de-Dados-Autocomplete--master/Trabalho-Estrutura-de-Dados-Autocomplete-/stack.h
+	<stddef.h>
+	<stdlib.h>
+
