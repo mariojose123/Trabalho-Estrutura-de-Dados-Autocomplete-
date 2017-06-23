@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 /*Estrutura da arvore ternaria*/
 struct Tnodo{
     char info;
