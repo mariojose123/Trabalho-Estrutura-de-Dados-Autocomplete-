@@ -1,4 +1,3 @@
-#include <stddef.h>
 #include <stdlib.h>
 //ESTRUTURA DE PILHA COM STRING (CHAR* ) E INT
 struct TPtPilha{

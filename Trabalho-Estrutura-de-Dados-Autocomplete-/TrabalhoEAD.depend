@@ -8,21 +8,23 @@
 
 1497999406 source:c:\users\mariojose123\documents\trabalhoead\stack.c
 
-<<<<<<< HEAD
-1498014743 source:/home/mjkfilho/Desktop/Trabalho-Estrutura-de-Dados-Autocomplete--master/Trabalho-Estrutura-de-Dados-Autocomplete-/stack.c
+1497999406 D
 
-1498084770 source:/home/mjkfilho/Desktop/Trabalho-Estrutura-de-Dados-Autocomplete--master/Trabalho-Estrutura-de-Dados-Autocomplete-/trabalho.c
+1498103485 source:/home/mjkfilho/Desktop/Trabalho-Estrutura-de-Dados-Autocomplete--master/Trabalho-Estrutura-de-Dados-Autocomplete-/stack.c
+
+1498178801 source:/home/mjkfilho/Desktop/Trabalho-Estrutura-de-Dados-Autocomplete--master/Trabalho-Estrutura-de-Dados-Autocomplete-/trabalho.c
 	"TernaryTree.h"
 	"stack.h"
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
 
-1498080861 /home/mjkfilho/Desktop/Trabalho-Estrutura-de-Dados-Autocomplete--master/Trabalho-Estrutura-de-Dados-Autocomplete-/TernaryTree.h
+1498177375 /home/mjkfilho/Desktop/Trabalho-Estrutura-de-Dados-Autocomplete--master/Trabalho-Estrutura-de-Dados-Autocomplete-/TernaryTree.h
 
-1498014743 /home/mjkfilho/Desktop/Trabalho-Estrutura-de-Dados-Autocomplete--master/Trabalho-Estrutura-de-Dados-Autocomplete-/stack.h
-	<stddef.h>
+1498179507 /home/mjkfilho/Desktop/Trabalho-Estrutura-de-Dados-Autocomplete--master/Trabalho-Estrutura-de-Dados-Autocomplete-/stack.h
 	<stdlib.h>
 
-=======
->>>>>>> e62668d5187b6c096f61a1343abb6b77d1d80ddd
+1498014743 
+
+1498014743 668d5187b6c096f61a1343abb6b77d1d80ddd
+

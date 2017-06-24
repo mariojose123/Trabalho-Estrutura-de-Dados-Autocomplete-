@@ -3,22 +3,17 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-<<<<<<< HEAD
 
 
-//TAREFA FELIPE:PEGAR AS INFORMA√á√ïES DO ARQUIVO E INSERIR A PONTUA√á√ÉO JUNTO COM A STRING COMO UM NODO EM UMA PILHA ,USANDO A ESTRUTURA DO stack.h//
+//TAREFA FELIPE:PEGAR AS INFORMA«’ES DO ARQUIVO E INSERIR A PONTUA«√O JUNTO COM A STRING COMO UM NODO EM UMA PILHA ,USANDO A ESTRUTURA DO stack.h//
 
 
 
 
 
 // newNode:char->pNodo
-//Recebe um char word e devolve um Nodo com wordEnd false representado que n√£o √© o final da palavra//
-=======
-// newNode:char->pNodo
-//Recebe um char word e devolve um Nodo com wordEnd false representado que n√£o √© o final da palavra
->>>>>>> e62668d5187b6c096f61a1343abb6b77d1d80ddd
-pNodo* newNode(char word)
+//Recebe um char word e devolve um Nodo com wordEnd false representado que n„o È o final da palavra
+/*pNodo* newNode(char word)
 {
     pNodo *Node=(pNodo*)malloc(sizeof(pNodo));
     Node->info=word;
@@ -26,11 +21,7 @@ pNodo* newNode(char word)
     Node->left=Node->center=Node->right=NULL;
     return Node;
 }
-<<<<<<< HEAD
-//Insert: Insere uma string na arvore ternaria,usa recurs√£o//
-=======
-//Insert: Insere uma string na arvore ternaria,usa recurs√£o
->>>>>>> e62668d5187b6c096f61a1343abb6b77d1d80ddd
+//Insert: Insere uma string na arvore ternaria,usa recurs„o
 void Insert(char *word,pNodo **node,int points){
     if((*node)==NULL){  //caso nodo seja nulo
      *node=newNode(*word);
@@ -52,7 +43,6 @@ void Insert(char *word,pNodo **node,int points){
       }
     }
 }
-<<<<<<< HEAD
 void print(char *t) {
    if (*t == '\0')
       return;
@@ -73,23 +63,17 @@ void test(){
  printf("/n%i ",ponto[1]);
  print(string2);
 }
-int main(){
-    test();
+*/int main(){
     return 0;
-}
-
-int main(){
-
->>>>>>> e62668d5187b6c096f61a1343abb6b77d1d80ddd
 }
 /*DADO UM NODO COLOCA NA PILHA sugestions as palavras filhas
 do nodo final da string (char*) str  da arvore terciaria*/
-void NodeWords(TipoPilha **sugestions,pNodo *node,char *str){
+/*void NodeWords(TipoPilha **sugestions,pNodo *node,char *str){
     if(node==NULL){
         return;
     }
     if(node->wordEnd==1){
-        *sugestions=PushPilha(*sugestions,node->points,str);
+        *sugestions=PushPilha((*sugestions),node->points,str);
     }
     if(node->left!=NULL){
         NodeWords(&(*sugestions),node->left,str);
@@ -104,9 +88,9 @@ void NodeWords(TipoPilha **sugestions,pNodo *node,char *str){
         NodeWords(&(*sugestions),node->center,_str);
     }
 }
-/*Coloca as sugest√µes para a palavra na pilha dado a arvore ternaria e
+/*Coloca as sugestıes para a palavra na pilha dado a arvore ternaria e
 a string (char*) str */
-void  Sugestions( TipoPilha **sugestions,pNodo *node,char *str){
+/*void  Sugestions( TipoPilha **sugestions,pNodo *node,char *str){
     pNodo *nodeaux=node;
     int pos;
     while(nodeaux!=NULL)
@@ -129,4 +113,4 @@ void  Sugestions( TipoPilha **sugestions,pNodo *node,char *str){
        }
     }
         return;
-    }
+}*/
