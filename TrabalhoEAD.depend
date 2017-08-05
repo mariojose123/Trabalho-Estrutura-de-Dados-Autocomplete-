@@ -1,0 +1,84 @@
+# depslib dependency file v1.0
+1497928468 source:c:\users\mariojose123\documents\trabalhoead\trabalho.c
+	"TernaryTree.h"
+	<stdio.h>
+	<stdlib.h>
+
+1500253550 
+
+1497920107 c:\users\mariojose123\documents\trabalhoead\ternarytree.h
+
+1497999406 source:c:\users\mariojose123\documents\trabalhoead\stack.c
+
+1497999406 D
+
+1498103485 source:/home/mjkfilho/Desktop/Trabalho-Estrutura-de-Dados-Autocomplete--master/Trabalho-Estrutura-de-Dados-Autocomplete-/stack.c
+
+1500151112 source:/home/mjkfilho/Desktop/Trabalho-Estrutura-de-Dados-Autocomplete--master/Trabalho-Estrutura-de-Dados-Autocomplete-/trabalho.c
+	"TernaryTree.h"
+	"stack.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1500137080 /home/mjkfilho/Desktop/Trabalho-Estrutura-de-Dados-Autocomplete--master/Trabalho-Estrutura-de-Dados-Autocomplete-/TernaryTree.h
+
+1500138606 /home/mjkfilho/Desktop/Trabalho-Estrutura-de-Dados-Autocomplete--master/Trabalho-Estrutura-de-Dados-Autocomplete-/stack.h
+	<stdlib.h>
+
+1498014743 668d5187b6c096f61a1343abb6b77d1d80ddd
+
+1498114284 source:c:\users\mariojose123\desktop\trabalho-estrutura-de-dados-autocomplete-\stack.c
+
+1500253550 source:c:\users\mariojose123\desktop\trabalho-estrutura-de-dados-autocomplete-\trabalho.c
+	"TernaryTree.h"
+	"linkedlist.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1500147880 c:\users\mariojose123\desktop\trabalho-estrutura-de-dados-autocomplete-\ternarytree.h
+
+1500149406 c:\users\mariojose123\desktop\trabalho-estrutura-de-dados-autocomplete-\stack.h
+	<stdlib.h>
+
+1500216784 c:\users\mariojose123\desktop\trabalho-estrutura-de-dados-autocomplete-\linkedlist.h
+	<stdio.h>
+	<stdlib.h>
+
+1498103484 source:/home/mjkfilho/Desktop/Trabalho-Estrutura-de-Dados-Autocomplete-/stack.c
+
+1498103484 source:/home/mjkfilho/Desktop/Trabalho-Estrutura-de-Dados-Autocomplete-2/stack.c
+
+1500330359 source:/home/mjkfilho/Desktop/Trabalho-Estrutura-de-Dados-Autocomplete-2/trabalho.c
+	"TernaryTree.h"
+	"linkedlist.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1500137080 /home/mjkfilho/Desktop/Trabalho-Estrutura-de-Dados-Autocomplete-2/TernaryTree.h
+
+1500330050 /home/mjkfilho/Desktop/Trabalho-Estrutura-de-Dados-Autocomplete-2/linkedlist.h
+	<stdio.h>
+	<stdlib.h>
+
+1500484302 source:/home/aluno/Trabalho-Estrutura-de-Dados-Autocomplete-2/trabalho.c
+	"TernaryTree.h"
+	"linkedlist.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1500343342 /home/aluno/Trabalho-Estrutura-de-Dados-Autocomplete-2/TernaryTree.h
+	<stdlib.h>
+
+1500342876 /home/aluno/Trabalho-Estrutura-de-Dados-Autocomplete-2/linkedlist.h
+	<stdio.h>
+	<stdlib.h>
+
+1498114284 source:/home/aluno/Trabalho-Estrutura-de-Dados-Autocomplete-2/stack.c
+
